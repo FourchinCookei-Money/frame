@@ -119,7 +119,7 @@
     "get-pixels": "3.3.3",
     "gridplus-sdk": "0.8.7",
     "hdkey": "2.0.1",
-    "ipfs-core": "0.11.1",
+    "ipfs-core": "0.17.0",
     "ipfs-http-client": "53.0.1",
     "nebula": "0.0.6",
     "node-fetch": "2.6.2",
